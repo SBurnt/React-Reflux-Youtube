@@ -1,0 +1,26 @@
+header {
+	background-color: #fff;
+	height: 55px;
+	border-bottom: 1px solid #fff;
+	-webkit-box-shadow: 0px 12px 20px 0px rgba(217, 218, 220, 1);
+	-moz-box-shadow: 0px 12px 20px 0px rgba(217, 218, 220, 1);
+	box-shadow: 0px 9px 20px rgba(217, 218, 220, 0.2);
+}
+
+#inputSearch {
+	border: 1px solid #000;
+	width: 300px;
+	vertical-align: middle;
+	height: 30px;
+	display: inline-block;
+}
+
+#btnSearch {
+	background: url(../img/video.svg) no-repeat 0px 0px;
+	width: 43px;
+	height: 30px;
+	border: none;
+	line-height: 30px;
+	vertical-align: middle;
+	cursor: pointer;
+}
